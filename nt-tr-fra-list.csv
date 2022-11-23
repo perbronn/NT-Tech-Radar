@@ -1,7 +1,0 @@
-name,ring,quadrant,isNew,description
-"Slite","Prøv ut","Tools","TRUE","Dok i på team nivå. Test fra PI24. https://slite.com/"
-"SonarQube","Bruk","Tools","TRUE","Verktøy for kvalitetsanalyse av kildekode"
-"Charles proxy","Prøv ut","Tools","TRUE","Debugging og mocking av API-data for native"
-"Conduktor","Bruk","Tools","TRUE","Verktøy for inspisering av Kafka-meldinger"
-"Docker Desktop","Bruk","Tools","TRUE","Kafka lokal utvikling"
-"Figma","Bruk","Tools","TRUE","UX design og prototyping"
