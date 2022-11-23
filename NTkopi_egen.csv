@@ -1,0 +1,73 @@
+name,ring,quadrant,isNew,description
+Slite,Tools,Prøv ut,TRUE,Dok i på team nivå. Test fra PI24. https://slite.com/
+SonarQube,Tools,Bruk,TRUE,Verktøy for kvalitetsanalyse av kildekode
+Charles proxy,Tools,Prøv ut,TRUE,Debugging og mocking av API-data for native
+Conduktor,Tools,Bruk,TRUE,Verktøy for inspisering av Kafka-meldinger
+Docker Desktop,Tools,Bruk,TRUE,Kafka lokal utvikling
+Figma,Tools,Bruk,TRUE,UX design og prototyping
+IntelliJ,Languages-and-frameworks,Bruk,TRUE,Java og Kotlin IDE
+SQL Developer,Languages-and-frameworks,Bruk,TRUE,Databaseaksess
+Secure CRT,Platform,Bruk,TRUE,SSH og Telnet-klient
+Teams,Tools,Bruk,TRUE,Kommunikasjonsplattform
+Slack,Tools,Prøv ut,TRUE,Kommunikasjonsplattform
+Kafka,Platform,Bruk,TRUE,Event streaming plattform
+Kafka Connect,Platform,Bruk,TRUE,Event streaming plattform
+Browser stack,Tools,Bruk,TRUE,Web og mobil testverktøy
+Miro,Tools,Bruk,TRUE,Kommunikasjon- og samarbeidsverktøy
+Sketch,Tools,Utgår,TRUE,UX design og prototyping
+Abstract,Tools,Utgår,TRUE,UX design og prototyping
+Mermaid,Tools,Bruk,TRUE,Språk/verktøry for å beskrive diagrammer
+Jenkins,Platform,Bruk,TRUE,CI/CD-plattform
+Sentry,Languages-and-frameworks,Utgår,TRUE,Rammeverk for feilsøking og overvåking (Omniweb)
+webpack,Tools,Bruk,TRUE,Pakkeverktøy for JavaScript-applikasjoner
+Cypress,Tools,Bruk,TRUE,Testverktøy for front end
+Splunk,Tools,Bruk,TRUE,Verktøy for feilsøking og overvåking
+AppDynamics,Tools,Prøv ut,TRUE,Verktøy for feilsøking og overvåking
+Kotlin,Languages-and-frameworks,Bruk,TRUE,Programmeringsspråk
+Java,Languages-and-frameworks,Bruk,TRUE,Programmeringsspråk
+Spring boot,Languages-and-frameworks,Bruk,TRUE,Rammeverk for REST-API'er
+Sonarlint,Tools,Bruk,TRUE,IntelliJ plugin for kvalitetsanalyse av kildekode
+Grafana,Tools,Bruk,TRUE,Verktøy for overvåking. Visualisering av metrikker.
+Prometheus,Platform,Bruk,TRUE,Verktøy for overvåking. Innsamling av metrikker.
+ArgoCD,Platform,Bruk,TRUE,CD-platform for k8s
+Flyway,Tools,Bruk,TRUE,Automatisk DB-deployment/migrering
+Ktor,Languages-and-frameworks,Bruk,TRUE,Rammeverk for asynkrone løsninger i Kotlin
+Apache Maven,Tools,Bruk,TRUE,Verktøy for automatiserte bygg
+logback,Platform,Bruk,TRUE,Rammeverk for serialisering av darta basert på JSON-spec
+log4j,Tools,Bruk,TRUE,Verktøy for logging
+Bender,Platform,Bruk,TRUE,Konfigurasjonsrepository
+mg,Tools,Bruk,TRUE,Egenutviklet kommandolinjeverktøy bruker metaGraf-spec for å lage nødvendige “byggeklosser” i Kubernetes eller OpenShift
+Middle Earth,Tools,Bruk,TRUE,Egenutviklet verktøy for deployment i alle miljøer
+Websphere Liberty Profile,Platform,Begrens,TRUE,IBM appserver
+Lombok,Techniques,Begrens,TRUE,Java-bibliotek for redusering av boilerplate-kode
+Kanban,Techniques,Bruk,TRUE,
+SAFe,Techniques,Bruk,TRUE,
+Scrum,Techniques,Bruk,TRUE,
+OpenID Connect/Keycloak/OAuth2,Platform,Bruk,TRUE,Autentiserings- og autorisasjonsverktøy
+Vault,Platform,Bruk,TRUE,System for håndering av hemmeligheter
+QlikView,Platform,Bruk,TRUE,ETL og Business analyse
+Power BI,Tools,Prøv ut,TRUE,ETL og Business analyse
+Business Objects,Platform,Bruk,TRUE,ETL og Business analyse
+Gatling,Tools,Bruk,TRUE,Verktøy for ytelsestest
+Postman,Tools,Bruk,TRUE,Verktøy for utvikling og automatiserte tester av API-er
+Fitnesse,Tools,Begrens,TRUE,Verktøy for automatiserte tester
+Google Analytics,Platform,Bruk,TRUE,Verktøy for webanalyse
+Hotjar,Tools,Bruk,TRUE,Verktøy for analyse av brukerinteraksjon på web
+QlikSense,Platform,Bruk,TRUE,ETL og Business analyse
+VSCode,Languages-and-frameworks,Bruk,TRUE,IDE
+Git,Tools,Bruk,TRUE,Versjonskontrollsystem
+Bitbucket,Tools,Bruk,TRUE,Git repository hosting system
+bash/zsh/fish,Tools,Bruk,TRUE,Unix shell
+powershell,Tools,Bruk,TRUE,Windows shell
+Open API specificaton,Techniques,Bruk,TRUE,Spec for dok av REST-tjenester
+axe,Tools,Bruk,TRUE,Validering av UU for web
+graphql,Languages-and-frameworks,Begrens,TRUE,Query languange for API
+Enonic XP,Platform,Bruk,TRUE,CMS
+Websocket,Platform,Bruk,TRUE,Kommunkasjonsprotokoll web browser <-> server
+Openshift,Platform,Bruk,TRUE,k8s container plattform
+winscp,Languages-and-frameworks,Bruk,TRUE,SSH file transfer protocol
+Yammer,Tools,Bruk,TRUE,
+Draw.io,Tools,Bruk,TRUE,Språk/verktøry for å beskrive diagrammer
+Nt Boot,Languages-and-frameworks,Bruk,TRUE,NT overbygg til Spring boot
+NT Ktor,Languages-and-frameworks,Bruk,TRUE,NT overbygg til Ktor
+Web sequence diagram,Tools,Bruk,TRUE,Språk/verktøry for å beskrive diagrammer
