@@ -37,7 +37,7 @@ name,ring,quadrant,isNew,description
 "log4j","Bruk","Tools","TRUE","Verktøy for logging"
 "Bender","Bruk","Platform","TRUE","Konfigurasjonsrepository"
 "mg","Bruk","Tools","TRUE","Egenutviklet kommandolinjeverktøy bruker metaGraf-spec for å lage nødvendige “byggeklosser” i Kubernetes eller OpenShift"
-"Middle Earth","Bruk","Tools","TRUE","Egenutviklet verktøy for deployment i alle miljøer"
+"Middle Earth","Bruk","Tools","TRUE","Et egenutviklet verktøy for deployment i alle miljøer"
 "Websphere Liberty Profile","Begrens","Platform","TRUE","IBM appserver"
 "Lombok","Begrens","Techniques","TRUE","Java-bibliotek for redusering av boilerplate-kode"
 "Kanban","Bruk","Techniques","TRUE",
