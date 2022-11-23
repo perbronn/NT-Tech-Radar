@@ -9,7 +9,7 @@ name,ring,quadrant,isNew,description
 "SQL Developer","Bruk","Languages-and-frameworks","TRUE","Databaseaksess"
 "Secure CRT","Bruk","Platform","TRUE","SSH og Telnet-klient"
 "Teams","Bruk","Tools","TRUE","Kommunikasjonsplattform"
-"Slack","Uforsk","Tools","TRUE","Kommunikasjonsplattform"
+"Slack","Begrens","Tools","TRUE","Kommunikasjonsplattform"
 "Kafka","Bruk","Platform","TRUE","Event streaming plattform"
 "Kafka Connect","Bruk","Platform","TRUE","Event streaming plattform"
 "Browser stack","Bruk","Tools","TRUE","Web og mobil testverktøy"
